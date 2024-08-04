@@ -1,6 +1,6 @@
 # xSMTP Store
 
-xSMTP Store is a web application built with FastAPI and React that allows users to register, log in, apply for packages, upload product photos and descriptions, and interact with a user dashboard.
+xSMTP Store is a web application built with FastAPI and React that allows users to register, log in, apply for packages, upload product , and interact with a user dashboard.
 
 ## Table of Contents
 
